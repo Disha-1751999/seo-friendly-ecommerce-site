@@ -128,11 +128,10 @@ public/
   Using Next.js `<Image>` component with `alt` attributes to optimize image loading and improve SEO signals.
 
 - **Robots.txt and Sitemap:**  
-  Added `robots.txt` to guide search engine crawlers and `sitemap.xml` to help them discover all pages efficiently.
+  Added `robots.txt` to guide search engine crawlers and `sitemap.xml` to help them discover all pages efficiently, implemented using packages `next-sitemap`
 
 - **Clean URLs:**  
   Friendly, descriptive, and consistent URLs like `/product/5` instead of query strings to improve readability and SEO.
 
-  ## Live link
-
-  ```https://seo-friendly-ecommerce-site.vercel.app/```
+  ## Live link 
+  [Link](https://seo-friendly-ecommerce-site.vercel.app)
